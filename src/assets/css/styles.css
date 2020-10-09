@@ -1,0 +1,49 @@
+body {
+    background-color: #E14647;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.row-1 {
+    background: #fff;
+    width: 900px;
+    height: 100%;
+    margin-top: 40px;
+    border-radius: 20px;
+}
+
+.col-auto {
+    width: 100%;
+}
+
+.text-center {
+    color: white;
+    height: 20%;
+    margin-top: 0;
+}
+
+.container-2 {
+        background-color: #E14647;
+        margin-top: -20px;
+        margin-bottom: 10px;
+        color: white;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        width: 100%;
+}
+
+.container-2 h3 {
+    font-size: 20px;
+
+}
+
+.card {
+    border: none;
+}
