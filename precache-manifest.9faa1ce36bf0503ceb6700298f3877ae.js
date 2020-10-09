@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bc7e0c64a63525d0d8a05c6d9dc115f6",
+    "revision": "e68e39d04aa12822ed2d907869b6ee24",
     "url": "/crud-react-firebase/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/crud-react-firebase/static/css/2.d34346ea.chunk.css"
   },
   {
-    "revision": "727ddbeed52b0d7d814d",
-    "url": "/crud-react-firebase/static/css/main.a0bc70ba.chunk.css"
+    "revision": "9bb5f52f2da5814fea7b",
+    "url": "/crud-react-firebase/static/css/main.50ee107a.chunk.css"
   },
   {
     "revision": "988e82590ee87919ffb0",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/crud-react-firebase/static/js/2.3aae726f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "727ddbeed52b0d7d814d",
-    "url": "/crud-react-firebase/static/js/main.c984c5b7.chunk.js"
+    "revision": "9bb5f52f2da5814fea7b",
+    "url": "/crud-react-firebase/static/js/main.66805ea3.chunk.js"
   },
   {
     "revision": "0d39a721320402b33375",
